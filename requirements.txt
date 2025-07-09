@@ -1,0 +1,25 @@
+# Voice Assistant Requirements
+# Core speech and audio libraries
+pyttsx3==2.90
+SpeechRecognition==3.10.0
+pyaudio==0.2.11
+
+# Web scraping and automation
+pywhatkit==5.4
+requests==2.31.0
+wikipedia==1.4.0
+
+# GUI automation
+pyautogui==0.9.54
+PyAutoGUI==0.9.54
+
+# Computer vision
+opencv-python==4.8.1.78
+
+# System utilities
+psutil==5.9.5
+
+# Additional dependencies that might be needed
+setuptools==68.0.0
+wheel==0.41.0
+pillow==10.0.0
